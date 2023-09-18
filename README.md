@@ -1,2 +1,2 @@
-# kubus_rubik.github.io
-# Permainan Kubus Rubik
+# kubus_rubik
+Permainan Kubus Rubik
